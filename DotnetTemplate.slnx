@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="DotnetTemplate.AppHost/DotnetTemplate.AppHost.csproj" />
+  <Project Path="DotnetTemplate.ServiceDefaults/DotnetTemplate.ServiceDefaults.csproj" />
+</Solution>
