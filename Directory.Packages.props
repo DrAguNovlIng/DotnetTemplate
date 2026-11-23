@@ -3,29 +3,30 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="Aspire.Hosting" Version="13.3.3" />
-    <PackageVersion Include="Aspire.Hosting.SqlServer" Version="13.3.0" />
-    <PackageVersion Include="MessagePack" Version="2.5.303" />
-    <PackageVersion Include="Microsoft.AspNetCore.Mvc.Testing" Version="10.0.7" />
-    <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="10.0.7" />
-    <PackageVersion Include="Microsoft.EntityFrameworkCore.Analyzers" Version="10.0.7" />
-    <PackageVersion Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.7" />
-    <PackageVersion Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.7" />
-    <PackageVersion Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.7" />
-    <PackageVersion Include="Microsoft.Extensions.Hosting" Version="10.0.7" />
-    <PackageVersion Include="Microsoft.Extensions.Hosting.Abstractions" Version="10.0.7" />
-    <PackageVersion Include="Microsoft.Extensions.Http.Resilience" Version="10.5.0" />
-    <PackageVersion Include="Microsoft.Extensions.ServiceDiscovery" Version="10.5.0" />
-    <PackageVersion Include="OpenTelemetry" Version="1.15.3" />
-    <PackageVersion Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.15.3" />
-    <PackageVersion Include="OpenTelemetry.Extensions.Hosting" Version="1.15.3" />
-    <PackageVersion Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.15.2" />
-    <PackageVersion Include="OpenTelemetry.Instrumentation.Http" Version="1.15.1" />
-    <PackageVersion Include="OpenTelemetry.Instrumentation.Runtime" Version="1.15.1" />
+    <PackageVersion Include="Aspire.Hosting" Version="17.0.0" />
+    <PackageVersion Include="Aspire.Hosting.AppHost" Version="17.0.0" />
+    <PackageVersion Include="Aspire.Hosting.Dotnet" Version="17.0.0" />
+    <PackageVersion Include="Aspire.Hosting.SqlServer" Version="17.0.0" />
+    <PackageVersion Include="Microsoft.AspNetCore.Mvc.Testing" Version="10.0.15" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="10.0.15" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.Analyzers" Version="10.0.15" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.15" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.15" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.15" />
+    <PackageVersion Include="Microsoft.Extensions.Hosting" Version="10.0.15" />
+    <PackageVersion Include="Microsoft.Extensions.Hosting.Abstractions" Version="10.0.15" />
+    <PackageVersion Include="Microsoft.Extensions.Http.Resilience" Version="11.0.1" />
+    <PackageVersion Include="Microsoft.Extensions.ServiceDiscovery" Version="11.0.1" />
+    <PackageVersion Include="OpenTelemetry" Version="1.21.0" />
+    <PackageVersion Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.21.0" />
+    <PackageVersion Include="OpenTelemetry.Extensions.Hosting" Version="1.21.0" />
+    <PackageVersion Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.21.0" />
+    <PackageVersion Include="OpenTelemetry.Instrumentation.Http" Version="1.21.0" />
+    <PackageVersion Include="OpenTelemetry.Instrumentation.Runtime" Version="1.21.0" />
     <PackageVersion Include="Shouldly" Version="4.3.0" />
-    <PackageVersion Include="SonarAnalyzer.CSharp" Version="10.25.0.139117" />
-    <PackageVersion Include="Testcontainers" Version="4.11.0" />
-    <PackageVersion Include="Testcontainers.MsSql" Version="4.11.0" />
-    <PackageVersion Include="xunit.v3" Version="3.2.2" />
+    <PackageVersion Include="SonarAnalyzer.CSharp" Version="10.37.0.15768" />
+    <PackageVersion Include="Testcontainers" Version="4.17.0" />
+    <PackageVersion Include="Testcontainers.MsSql" Version="4.17.0" />
+    <PackageVersion Include="xunit.v3" Version="4.0.3" />
   </ItemGroup>
 </Project>
